@@ -1,0 +1,137 @@
+[
+    {
+        "_id": 1,
+        "name": "Alice Johnson",
+        "age": 22,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "grade": 88,
+        "enrollmentYear": 2021
+    },
+    {
+        "_id": 2,
+        "name": "Brian Smith",
+        "age": 19,
+        "city": "Cleveland",
+        "state": "OH",
+        "grade": 75,
+        "enrollmentYear": 2019
+    },
+    {
+        "_id": 3,
+        "name": "Carla Lopez",
+        "age": 23,
+        "city": "Erie",
+        "state": "PA",
+        "grade": 92,
+        "enrollmentYear": 2020
+    },
+    {
+        "_id": 4,
+        "name": "David Kim",
+        "age": 21,
+        "city": "Columbus",
+        "state": "OH",
+        "grade": 81,
+        "enrollmentYear": 2022
+    },
+    {
+        "_id": 5,
+        "name": "Ella Martinez",
+        "age": 20,
+        "city": "Buffalo",
+        "state": "NY",
+        "grade": 79,
+        "enrollmentYear": 2018
+    },
+    {
+        "_id": 6,
+        "name": "Frank Wilson",
+        "age": 24,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "grade": 95,
+        "enrollmentYear": 2023
+    },
+    {
+        "_id": 7,
+        "name": "Grace Lee",
+        "age": 18,
+        "city": "Cleveland",
+        "state": "OH",
+        "grade": 85,
+        "enrollmentYear": 2021
+    },
+    {
+        "_id": 8,
+        "name": "Henry Brown",
+        "age": 22,
+        "city": "Detroit",
+        "state": "MI",
+        "grade": 68,
+        "enrollmentYear": 2017
+    },
+    {
+        "_id": 9,
+        "name": "Isabella Davis",
+        "age": 21,
+        "city": "Philadelphia",
+        "state": "PA",
+        "grade": 90,
+        "enrollmentYear": 2020
+    },
+    {
+        "_id": 10,
+        "name": "Jack Miller",
+        "age": 19,
+        "city": "Newark",
+        "state": "NJ",
+        "grade": 72,
+        "enrollmentYear": 2022
+    },
+    {
+        "_id": 11,
+        "name": "Karen White",
+        "age": 23,
+        "city": "Columbus",
+        "state": "OH",
+        "grade": 84,
+        "enrollmentYear": 2021
+    },
+    {
+        "_id": 12,
+        "name": "Leo Nguyen",
+        "age": 20,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "grade": 77,
+        "enrollmentYear": 2019
+    },
+    {
+        "_id": 13,
+        "name": "Maya Patel",
+        "age": 22,
+        "city": "Cleveland",
+        "state": "OH",
+        "grade": 93,
+        "enrollmentYear": 2023
+    },
+    {
+        "_id": 14,
+        "name": "Nathan Green",
+        "age": 21,
+        "city": "Buffalo",
+        "state": "NY",
+        "grade": 87,
+        "enrollmentYear": 2020
+    },
+    {
+        "_id": 15,
+        "name": "Olivia Scott",
+        "age": 24,
+        "city": "Philadelphia",
+        "state": "PA",
+        "grade": 99,
+        "enrollmentYear": 2022
+    }
+]
