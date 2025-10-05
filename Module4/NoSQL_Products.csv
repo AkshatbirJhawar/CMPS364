@@ -1,0 +1,51 @@
+product_id,product_name,category,price,in_stock,ratings
+101,Sofa,Home Decor,1282.36,TRUE,3
+102,Refrigerator,Furniture,1776.68,FALSE,1
+103,Microwave,Furniture,954.99,TRUE,1
+104,Camera,Home Decor,256.8,FALSE,4
+105,Watch,Computers,1432.22,TRUE,3
+106,Sofa,Furniture,1526.35,FALSE,5
+107,Stove,Furniture,1131.33,FALSE,3
+108,Camera,Home Decor,1546.52,FALSE,4
+109,Camera,Furniture,997.72,FALSE,4
+110,Chair,Furniture,1055.01,TRUE,3
+111,Watch,Home Decor,866.53,FALSE,4
+112,Desk,Home Decor,70.33,TRUE,3
+113,Laptop,Electronics,233.63,TRUE,2
+114,Printer,Computers,82.23,TRUE,3
+115,Tablet,Computers,1280.09,TRUE,3
+116,Laptop,Furniture,642.42,FALSE,4
+117,Smartphone,Computers,1026.97,TRUE,4
+118,Printer,Furniture,1816.98,TRUE,1
+119,Printer,Electronics,513.6,TRUE,1
+120,Lamp,Home Decor,832.56,FALSE,2
+121,Monitor,Home Decor,1515.99,FALSE,1
+122,Blender,Home Decor,473.02,FALSE,3
+123,Microwave,Computers,172.42,FALSE,4
+124,Microwave,Electronics,593.71,TRUE,1
+125,Stove,Computers,339.22,TRUE,1
+126,Printer,Computers,1860.8,FALSE,2
+127,Refrigerator,Electronics,1620.08,TRUE,2
+128,Desk,Electronics,1274.14,TRUE,3
+129,Headphones,Electronics,1745.49,TRUE,4
+130,Stove,Electronics,1611.27,FALSE,2
+131,Sofa,Home Decor,389.41,FALSE,1
+132,Keyboard,Appliances,1787.27,TRUE,4
+133,Sofa,Appliances,1087.9,FALSE,4
+134,Bookshelf,Electronics,1618.73,FALSE,1
+135,Chair,Appliances,1794.26,FALSE,2
+136,Television,Appliances,649.65,FALSE,1
+137,Bookshelf,Electronics,237.9,FALSE,4
+138,Keyboard,Appliances,471.31,TRUE,5
+139,Laptop,Computers,865.67,FALSE,5
+140,Refrigerator,Furniture,1639.67,TRUE,3
+141,Microwave,Furniture,1724.25,TRUE,1
+142,Sofa,Electronics,33.77,FALSE,1
+143,Printer,Home Decor,1031.28,TRUE,3
+144,Watch,Electronics,846.47,TRUE,3
+145,Microwave,Home Decor,459.77,TRUE,3
+146,Desk,Furniture,257.33,FALSE,4
+147,Television,Electronics,688.48,FALSE,1
+148,Lamp,Computers,1886.96,TRUE,4
+149,Chair,Appliances,659.94,FALSE,3
+150,Bookshelf,Home Decor,1047.21,FALSE,1
